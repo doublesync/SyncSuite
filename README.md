@@ -1,9 +1,5 @@
 ## :zap: **Sync2K – The Ultimate Mod Suite for NBA 2K25!**
 
-Hey basketball enthusiasts! We're excited to introduce **Sync2K**, a powerful mod suite designed specifically for **NBA 2K25** that revolutionizes roster editing and simulation league management. :basketball:
-
-Whether you’re a league commissioner, roster creator, or a hardcore NBA 2K fan, Sync2K provides a range of tools to customize your experience. From **automatic upgrades** to in-depth **player management**, our suite is built to enhance every aspect of your NBA 2K25 experience.
-
 ### **What Sync2K Offers:**
 - **Upgrade+** (close to release) – Automatically apply upgrades to players’ attributes, badges, and tendencies, streamlining league management. :zap:
 - **Roster+** (upcoming release) – A powerful roster editor for creating and managing rosters with ease. :wrench:
